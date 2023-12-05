@@ -1,0 +1,19 @@
+{
+  "name": "@reflector/reflector-coinmarketcap-connector",
+  "version": "0.1.0",
+  "description": "CoinMarketCap data source for Reflector backend",
+  "private": true,
+  "author": "team@stellar.expert",
+  "license": "MIT",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:reflector-network/reflector-coinmarketcap-connector.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}

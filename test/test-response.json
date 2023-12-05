@@ -1,0 +1,128 @@
+{
+  "status": {
+    "timestamp": "2023-12-04T23:00:09.614Z",
+    "error_code": 0
+  },
+  "data": {
+    "BTC": [
+      {
+        "id": 1,
+        "symbol": "BTC",
+        "slug": "bitcoin",
+        "last_updated": "2023-12-04T22:59:00.000Z",
+        "quote": {
+          "USD": {
+            "price": 41954.90670451562
+          }
+        }
+      }
+    ],
+    "ETH": [
+      {
+        "id": 1027,
+        "symbol": "ETH",
+        "slug": "ethereum",
+        "last_updated": "2023-12-04T22:59:00.000Z",
+        "quote": {
+          "USD": {
+            "price": 2228.6965342330186
+          }
+        }
+      }
+    ],
+    "SOL": [
+      {
+        "id": 5426,
+        "symbol": "SOL",
+        "slug": "solana",
+        "last_updated": "2023-12-04T22:59:00.000Z",
+        "quote": {
+          "USD": {
+            "price": 60.94333522737736
+          }
+        }
+      },
+      {
+        "id": 16116,
+        "symbol": "SOL",
+        "slug": "wrapped-solana",
+        "last_updated": "2023-12-04T22:58:00.000Z",
+        "quote": {
+          "USD": {
+            "price": 61.02602339335064
+          }
+        }
+      },
+      {
+        "id": 591,
+        "symbol": "SOL",
+        "slug": "solcoin",
+        "last_updated": "2015-05-31T16:29:17.000Z",
+        "quote": {
+          "USD": {
+            "price": null
+          }
+        }
+      },
+      {
+        "id": 3333,
+        "symbol": "SOL",
+        "slug": "sola-token",
+        "last_updated": "2020-07-07T02:17:23.000Z",
+        "quote": {
+          "USD": {
+            "price": null
+          }
+        }
+      },
+      {
+        "id": 12003,
+        "symbol": "SOL",
+        "slug": "sol-rune---rune-game",
+        "last_updated": "2022-10-10T18:25:00.000Z",
+        "quote": {
+          "USD": {
+            "price": null
+          }
+        }
+      }
+    ],
+    "XLM": [
+      {
+        "id": 512,
+        "symbol": "XLM",
+        "slug": "stellar",
+        "last_updated": "2023-12-04T22:58:00.000Z",
+        "quote": {
+          "USD": {
+            "price": 0.1214990450711749
+          }
+        }
+      }
+    ],
+    "XRP": [
+      {
+        "id": 52,
+        "symbol": "XRP",
+        "slug": "xrp",
+        "last_updated": "2023-12-04T22:59:00.000Z",
+        "quote": {
+          "USD": {
+            "price": 0.6222352482616826
+          }
+        }
+      },
+      {
+        "id": 27809,
+        "symbol": "XRP",
+        "slug": "harrypotterobamapacman8inu",
+        "last_updated": "2023-12-04T22:59:00.000Z",
+        "quote": {
+          "USD": {
+            "price": 0.040458782019842335
+          }
+        }
+      }
+    ]
+  }
+}
