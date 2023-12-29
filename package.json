@@ -1,6 +1,6 @@
 {
   "name": "@reflector/reflector-coinmarketcap-connector",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CoinMarketCap data source for Reflector backend",
   "private": true,
   "author": "team@stellar.expert",

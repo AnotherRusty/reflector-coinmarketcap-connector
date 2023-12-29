@@ -24,7 +24,7 @@ function fetchQuotes(symbols, decimals, apiKey) {
  * @return {BigInt}
  */
 function processPrice(entry, decimals) {
-    if (!entry)
+    if (!entry || !entry.length)
         return 0n
     const {price} = entry[0].quote.USD
     if (!price)
